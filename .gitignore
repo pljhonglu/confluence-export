@@ -1,0 +1,6 @@
+build
+node_modules
+.env
+.DS_Store
+spaces/
+src/config.js
